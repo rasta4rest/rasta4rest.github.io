@@ -1,2 +1,2 @@
-# KauRM..github.io
+# KauRM.github.io
 just for testing
